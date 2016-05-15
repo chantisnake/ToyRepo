@@ -21,9 +21,9 @@ This is a temporary repo just to teach Lexos team about the basic git commands:
     * sync from the local to remote (I don't really understand why git don't just provide a `sync` command)
   * reset (`--soft` `--hard` and undo add)  
     * reset your program status to a commit  
-    * `--soft` only reset your git info to that restore point(lost all the commits in between)  
-    * `--hard` reset all the program, including the git info to a certain commit   
-    * undo `add` command  
+        * `--soft` only reset your git info to that restore point(lost all the commits in between)  
+        * `--hard` reset all the program, including the git info to a certain commit   
+        * undo `add` command  
   * status  
     * show the status of the current git information
   * diff  
