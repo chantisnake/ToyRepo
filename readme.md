@@ -28,3 +28,13 @@ This is a temporary repo just to teach the Lexos team about basic git commands:
     * show the status of the current git information
   * diff  
     * show the difference between current and a commit (default is the latest commit)
+
+## a sample session
+
+$ vi readme.md
+$ git add readme.md
+$ git commit -m "small edits to readme; just practing"
+$ git pull
+$ git push
+
+
