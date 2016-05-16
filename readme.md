@@ -29,12 +29,17 @@ This is a temporary repo just to teach the Lexos team about basic git commands:
   * diff  
     * show the difference between current and a commit (default is the latest commit)
 
+## a decent tutorial on git
+https://www.atlassian.com/git/tutorials/saving-changes/git-add
+
 ## a sample session
 
+```
 $ vi readme.md
 $ git add readme.md
 $ git commit -m "small edits to readme; just practing"
 $ git pull
 $ git push
+```
 
 
