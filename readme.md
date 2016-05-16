@@ -1,27 +1,27 @@
 # toy Repo
 
-This is a temporary repo just to teach Lexos team about the basic git commands:  
+This is a temporary repo just to teach the Lexos team about basic git commands:  
 
-## couple of important file
+## a couple of important files
   * .gitignore
-    * all the filename in this file will be ignored by git(not able to add)
+    * all the filenames in this file will be ignored by git (so these files you are unable to add)
   * .git/
     * the folder with all the git information
 
 ## commands
 
   * add  
-    * add the files that you want to push to the remote  
+    * add the files that you have edited and want to push to the remote repo  
   * commit  
     * make a local image of the current program  
     * kind of like creating a restore point
   * pull  
     * sync from the remote to local  
   * push  
-    * sync from the local to remote (I don't really understand why git don't just provide a `sync` command)
+    * sync from the local to remote 
   * reset (`--soft` `--hard` and undo add)  
     * reset your program status to a commit  
-        * `--soft` only reset your git info to that restore point(lost all the commits in between)  
+        * `--soft` only reset your git info to that restore point (thereby losing all the commits in between)  
         * `--hard` reset all the program, including the git info to a certain commit   
         * undo `add` command  
   * status  
