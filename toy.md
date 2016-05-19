@@ -72,6 +72,7 @@ junk
   
 # the paragraph for Prof. Leblanc
 If you really want to play around with this too...  
+Yes, I really want to play too!
 junk  
 junk  
 junk  
