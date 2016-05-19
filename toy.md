@@ -5,11 +5,11 @@ this is cool
 junk is cool 
   
 # the paragraph for Jordan
-junk  
-junk  
-junk  
-junk  
-junk  
+# NOT junk  
+Hello my baby
+Hello my honey
+Hello my ragtime gal
+# NOT junk  
   
 # the paragraph for Michael
 junk  
@@ -23,13 +23,14 @@ junk
 junk  
 junk  
 junk  
-junk  
+this is yiqing
 junk  
 junk  
   
 # the paragraph for Caren
 junk  
 junk  
+foobar
 junk  
 junk  
 junk  
@@ -38,14 +39,14 @@ junk
 # the paragraph for Kristina
 junk  
 junk  
-junk  
-junk  
+this is a test
+junk  hi
 junk  
 junk  
   
 # the paragraph for Steven
 junk  
-junk  
+###Big_junk  
 junk  
 junk  
 junk  
@@ -56,12 +57,12 @@ junk
 junk  
 junk  
 junk  
-junk  
+this is a test  
 junk  
 junk  
   
 # the paragraph for Evan
-junk  
+knuj  
 junk  
 junk  
 junk  
