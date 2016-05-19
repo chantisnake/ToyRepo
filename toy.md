@@ -45,8 +45,8 @@ junk
 # the paragraph for Kristina
 junk  
 junk  
-still trying to test this
-Grace is typing this line right now
+still trying to test this 
+Grace is typing this line right now hihihihihihiihi
 junk  hi
 junk  
 junk  
