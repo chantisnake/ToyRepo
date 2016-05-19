@@ -1,10 +1,8 @@
 # the paragraph for Moses
 junk  
 junk  
-junk  
-junk  
-junk  
-junk  
+this is cool
+junk is cool 
   
 # the paragraph for Jordan
 junk  
