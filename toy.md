@@ -45,7 +45,7 @@ junk
 # the paragraph for Kristina
 junk  
 junk  
-this is a test
+Grace is typing this line right now
 junk  hi
 junk  
 junk  
@@ -64,7 +64,7 @@ junk
 junk  
   
 # the paragraph for Evan
-[foobar foobar foobar] knuj  
+the junk keeps coming
 junk  
 junk  
 junk  
