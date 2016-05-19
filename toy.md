@@ -1,7 +1,7 @@
 # the paragraph for Moses
 junk  
 junk  
-junk  
+mark is changing LINE 3  
 junk  
 junk  
 junk  
