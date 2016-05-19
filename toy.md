@@ -1,10 +1,15 @@
 # the paragraph for Moses
 junk  
 junk  
+<<<<<<< HEAD
 mark is changing LINE 3  
 junk  
 junk  
 junk  
+=======
+this is cool
+junk is cool 
+>>>>>>> 5f50461121eacad68d3904ac3e002dcffb41436e
   
 # the paragraph for Jordan
 # NOT junk  
@@ -32,6 +37,7 @@ junk
 # the paragraph for Caren
 junk  
 junk  
+foobar
 junk  
 junk  
 junk  
@@ -47,7 +53,7 @@ junk
   
 # the paragraph for Steven
 junk  
-junk  
+###Big_junk  
 junk  
 junk  
 junk  
@@ -55,15 +61,11 @@ junk
   
   
 # the paragraph for Alvaro 
-junk  
-junk  
-junk  
-this is a test  
-junk  
+# This is a test    
 junk  
   
 # the paragraph for Evan
-junk  
+knuj  
 junk  
 junk  
 junk  
