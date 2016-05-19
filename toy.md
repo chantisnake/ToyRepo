@@ -7,11 +7,11 @@ junk
 junk  
   
 # the paragraph for Jordan
-junk  
-junk  
-junk  
-junk  
-junk  
+# NOT junk  
+Hello my baby
+Hello my honey
+Hello my ragtime gal
+# NOT junk  
   
 # the paragraph for Michael
 junk  
@@ -25,7 +25,7 @@ junk
 junk  
 junk  
 junk  
-junk  
+this is yiqing
 junk  
 junk  
   
@@ -41,8 +41,8 @@ junk
 # the paragraph for Kristina
 junk  
 junk  
-junk  
-junk  
+this is a test
+junk  hi
 junk  
 junk  
   
