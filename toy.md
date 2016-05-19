@@ -1,10 +1,14 @@
 # the paragraph for Moses
+this is junk  
+junk this is lalalallala  
+this is hhhhhhhh
+junk  
+mark is changing LINE 3  
 junk  
 junk  
 junk  
-junk  
-junk  
-junk  
+this is cool
+junk is cool 
   
 # the paragraph for Jordan
 # NOT junk  
@@ -41,14 +45,14 @@ junk
 # the paragraph for Kristina
 junk  
 junk  
-this is a test
+Grace is typing this line right now
 junk  hi
 junk  
 junk  
   
 # the paragraph for Steven
 junk  
-junk  
+###Big_junk  
 junk  
 junk  
 junk  
@@ -61,10 +65,11 @@ junk
 junk  
 this is a test  
 junk  
+# This is a test    
 junk  
   
 # the paragraph for Evan
-junk  
+the junk keeps coming
 junk  
 junk  
 junk  
