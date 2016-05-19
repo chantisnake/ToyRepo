@@ -70,7 +70,7 @@ junk
 junk  
 junk  
   
-# the paragraph for Prof. Leblanc
+# the paragraph for Prof. LeBlanc
 If you really want to play around with this too...  
 Yes, I really want to play too!
 junk  
