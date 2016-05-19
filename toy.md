@@ -46,11 +46,8 @@ junk
 # the paragraph for Kristina
 junk  
 junk  
-<<<<<<< HEAD
-still trying to test this
-=======
-Grace is typing this line right now
->>>>>>> 774a7ae383892190b2c9cafea2b3e8273db494a7
+still trying to test this 
+Grace is typing this line right now hihihihihihiihi
 junk  hi
 junk  
 junk  
