@@ -15,6 +15,7 @@ junk is cool
 Hello my baby
 Hello my honey
 Hello my ragtime gal
+NEWTEXTNEWTEXTNEWTEXT
 # NOT junk  
   
 # the paragraph for Michael
@@ -45,6 +46,8 @@ junk
 # the paragraph for Kristina
 junk  
 junk  
+still trying to test this
+second time trying to get a conflict
 still trying to test this 
 Grace is typing this line right now hihihihihihiihihiiii
 junk  hi
@@ -52,7 +55,7 @@ junk
 junk  
   
 # the paragraph for Steven
-dif_junk 
+diff dif junk  
 ###Big_junk  
 junk  
 junk  
