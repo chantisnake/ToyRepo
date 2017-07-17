@@ -68,7 +68,7 @@ I'm a conflict! Rawr!
 junk  
 junk  
 this is a test  
-junk  
+junk
 # This is a test    
 junk  
   
