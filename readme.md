@@ -49,6 +49,35 @@ $ git push
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 
+
+* Unordered List
+
+    \* Item 1 \
+    \* Item 2 \
+
+  Example:
+  * Mark LeBlanc
+    * Computer Science Professor.
+    * Wheaton College
+
+  * Weiqi
+    * Computer Science and Mathematics double Major.
+    * Wheaton College
+
+* Ordered List
+  1. Wheaton College
+  2. Norton
+  3. MA  
+  4. USA
+  5. North America
+
+
+- [ ] @phuens
+### TODO
+- [ ] Javascript update
+- [ ] CSS update
+- [ ] Hello
+=======
 * Images.
    * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
    * Format: !\[Alt Text](url)
@@ -59,6 +88,6 @@ $ git push
   * :octocat:  \:octocat:
   * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
   
-  * Blockquotes
+ * Blockquotes
   * \> creates a blockquote 
     >This is a blockquote
