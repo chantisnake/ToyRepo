@@ -83,7 +83,8 @@ $ git push
 - [ ] Javascript update
 - [ ] CSS update
 - [ ] Hello
-=======
+
+
 * Images.
    * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
    * Format: !\[Alt Text](url)
@@ -95,7 +96,7 @@ $ git push
    * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
   
  * Blockquotes
-  * \> creates a blockquote 
+   * \> creates a blockquote 
     >This is a blockquote
     
 * Table
