@@ -52,3 +52,10 @@ $ git push
 * Images.
    * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
    * Format: !\[Alt Text](url)
+ 
+ * Emoji
+  * GitHub supports emoji! 
+  * \:emoji_name_here:
+  * :octocat:  \:octocat:
+  * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
+  
