@@ -51,7 +51,8 @@ $ git push
 
 
 * Unordered List
-  * \# create an unordered list.
+  \* \item 1
+  *
   * Mark
     * Computer Science Professor.
     * Wheaton College
@@ -59,3 +60,5 @@ $ git push
   * Weiqi
     * Computer Science and Mathematics double Major.
     * Wheaton College
+
+* Ordered List
