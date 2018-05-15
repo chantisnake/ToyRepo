@@ -48,7 +48,7 @@ $ git push
   * \_Italic\_ will be _Italic_ or \*Italic\* will also be *Italic*.
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
-#Tables
+* Tables
 **First Header** | **Second Header**
 ---------------- | -----------------
 Content cell 1   | Content cell 2
@@ -68,9 +68,6 @@ Content column 1 | Content cell 2
   3. MA  
   4. USA
   5. North America
-* Images
-    ![GitHub Logo](/images/logo.jpg)
-    *Format: \[Alt Text](url)
 * Emoji
   * GitHub supports emoji! 
   * \:emoji_name_here:
@@ -79,4 +76,6 @@ Content column 1 | Content cell 2
 * Blockquotes
   * \> creates a blockquote 
     >This is a blockquote
-
+* Images
+    *![GitHub Logo](/images/logo.jpg|width=100)
+    *Format: \[Alt Text](url)
