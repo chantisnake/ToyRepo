@@ -65,3 +65,11 @@ $ git push
   3. MA
   4. USA
   5. North America
+
+- [x] @phuens, #refs, [links](),
+**formatting** do this before Monday.
+  * TODO
+  1. Javascript update
+  2. CSS update
+
+
