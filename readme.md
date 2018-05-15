@@ -49,6 +49,10 @@ $ git push
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 * Tables
+* Links
+  * https://github.com/ - Links are automatically live!
+  * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
+#Tables
 **First Header** | **Second Header**
 ---------------- | -----------------
 Content cell 1   | Content cell 2
