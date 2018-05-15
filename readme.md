@@ -63,7 +63,7 @@ $ git push
   4. USA
   5. North America
 * Images
-    ![GitHub Logo](/images/logo.jpg)
+    ![GitHub Logo](/images/logo.jpg|width=100)
     *Format: \[Alt Text](url)
 * Emoji
   * GitHub supports emoji! 
