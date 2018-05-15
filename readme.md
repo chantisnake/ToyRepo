@@ -61,7 +61,7 @@ Content column 1 | Content cell 2
      * \ * Item 2a \
      * \ * Item 2b \
 
-  * Example
+   Example
   * Mark LeBlanc
     * Computer Science Professor.
     * Wheaton College
