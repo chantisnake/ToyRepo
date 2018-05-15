@@ -48,11 +48,11 @@ $ git push
   * \_Italic\_ will be _Italic_ or \*Italic\* will also be *Italic*.
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
-* Links
-  * https://github.com/ - Links are automatically live!
-  * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
 * Emoji
   * GitHub supports emoji! 
   * \:emoji_name_here:
   * :octocat:  \:octocat:
   * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
+* Links
+  * https://github.com/ - Links are automatically live!
+  * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
