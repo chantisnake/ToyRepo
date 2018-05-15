@@ -49,6 +49,12 @@ $ git push
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 
+* Images.
+   * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
+   * Format: !\[Alt Text](url)
+* Links
+  * https://github.com/ - Links are automatically live!
+  * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
 
 * Unordered List
 
@@ -83,11 +89,12 @@ $ git push
    * Format: !\[Alt Text](url)
  
  * Emoji
-  * GitHub supports emoji! 
-  * \:emoji_name_here:
-  * :octocat:  \:octocat:
-  * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
+   * GitHub supports emoji! 
+   * \:emoji_name_here:
+   * :octocat:  \:octocat:
+   * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
   
  * Blockquotes
   * \> creates a blockquote 
     >This is a blockquote
+
