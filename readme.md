@@ -55,7 +55,7 @@ Content cell 1   | Content cell 2
 Content column 1 | Content cell 2
 
 * Unordered List
-  * syntax:
+
   \ * \* Item 1
   \ * \* Item 2
     \ * \*Item 2a
