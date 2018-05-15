@@ -49,6 +49,7 @@ $ git push
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 
+
 * Images.
    * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
    * Format: !\[Alt Text](url)
@@ -56,10 +57,15 @@ $ git push
   * https://github.com/ - Links are automatically live!
   * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
 
+
 * Unordered List
 
     \* Item 1 \
+
+    \* Item 2
+
     \* Item 2 \
+
 
   Example:
   * Mark LeBlanc
@@ -73,7 +79,7 @@ $ git push
 * Ordered List
   1. Wheaton College
   2. Norton
-  3. MA  
+  3. MA
   4. USA
   5. North America
 
@@ -83,12 +89,42 @@ $ git push
 - [ ] Javascript update
 - [ ] CSS update
 - [ ] Hello
-=======
+
 * Images.
    * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
    * Format: !\[Alt Text](url)
  
  * Emoji
+
+  * GitHub supports emoji! 
+* Images
+    ![GitHub Logo](/images/logo.jpg)
+    *Format: \[Alt Text](url)
+* Emoji
+  * GitHub supports emoji!
+  * \:emoji_name_here:
+  * :octocat:  \:octocat:
+  * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)
+* Blockquotes
+  * \> creates a blockquote
+    >This is a blockquote
+
+
+
+\-\[ \] \@mentions, \#refs, \[links]\(),
+\*\* formatting \*\*, and \<del> tags \<\/del>
+supported
+ \- \[  \] list syntax required.
+ \- \[  \] list 2
+
+- [x] @phuens, #refs, [links](),
+**formatting** do this before Monday.
+  * TODO
+  1. Javascript update
+  2. CSS update
+  3. Hello
+
+
    * GitHub supports emoji! 
    * \:emoji_name_here:
    * :octocat:  \:octocat:
@@ -111,3 +147,4 @@ function test(){
 }
 ```
 ![Happy Birthday Weiqi!](/images/for_Weiqi.png)
+
