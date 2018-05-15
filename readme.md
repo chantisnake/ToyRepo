@@ -98,11 +98,11 @@ $ git push
 
 
 
-* \-\[\] \@mentions, \#refs, \[links]\(),
-\*\* formatting \*\*, and <del> tags </del>
+* \-\[ \] \@mentions, \#refs, \[links]\(),
+\*\* formatting \*\*, and \<del> tags \</del>
 supported
-\-\[ ] list syntax required.
-\-\[ ] list 2
+-\[ \] list syntax required.
+-\[ \] list 2
 
 - [x] @phuens, #refs, [links](),
 **formatting** do this before Monday.
