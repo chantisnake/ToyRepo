@@ -82,8 +82,8 @@ Content column 1 | Content cell 2
 
 -@phuens
 
-**formatting**, do this before Monday.
+Do this before Monday.
   * TODO:
-    1. Javascript update
-    2. CSS update
-    3. Hello
+    [] Javascript update
+    [] CSS update
+    [x] Hello
