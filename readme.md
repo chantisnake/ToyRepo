@@ -65,6 +65,17 @@ $ git push
   3. MA
   4. USA
   5. North America
+* Images
+    ![GitHub Logo](/images/logo.jpg)
+    *Format: \[Alt Text](url)
+* Emoji
+  * GitHub supports emoji!
+  * \:emoji_name_here:
+  * :octocat:  \:octocat:
+  * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)
+* Blockquotes
+  * \> creates a blockquote
+    >This is a blockquote
 
 - [x] @phuens, #refs, [links](),
 **formatting** do this before Monday.
