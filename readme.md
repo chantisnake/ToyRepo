@@ -110,4 +110,6 @@ function test(){
     console.log("Happy birthday, Weiqi!");
 }
 ```
+<img src="images/for_Weiqi.png" width="100" height="100">
+
 ![Happy Birthday Weiqi!](/images/for_Weiqi.png)
