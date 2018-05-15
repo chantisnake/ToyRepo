@@ -50,6 +50,7 @@ $ git push
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 
 
+
 * Unordered List
   * Mark LeBlanc
     * Computer Science Professor.
@@ -62,6 +63,14 @@ $ git push
 * Ordered List
   1. Wheaton College
   2. Norton
-  3. MA
+  3. MA  
   4. USA
   5. North America
+
+* Emoji
+  * GitHub supports emoji! 
+  * \:emoji_name_here:
+  * :octocat:  \:octocat:
+  * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
+  
+
