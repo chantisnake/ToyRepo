@@ -53,6 +53,42 @@ $ git push
    * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
    * Format: !\[Alt Text](url)
  
+* Links
+  * https://github.com/ - Links are automatically live!
+  * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
+
+* Unordered List
+
+    \* Item 1 \
+    \* Item 2 \
+
+  Example:
+  * Mark LeBlanc
+    * Computer Science Professor.
+    * Wheaton College
+
+  * Weiqi
+    * Computer Science and Mathematics double Major.
+    * Wheaton College
+
+* Ordered List
+  1. Wheaton College
+  2. Norton
+  3. MA  
+  4. USA
+  5. North America
+
+
+- [ ] @phuens
+### TODO
+- [ ] Javascript update
+- [ ] CSS update
+- [ ] Hello
+=======
+* Images.
+   * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
+   * Format: !\[Alt Text](url)
+ 
  * Emoji
   * GitHub supports emoji! 
   * \:emoji_name_here:
