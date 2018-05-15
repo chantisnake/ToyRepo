@@ -61,6 +61,7 @@ Content column 1 | Content cell 2
      * \ * Item 2a \
      * \ * Item 2b \
 
+  * Example
   * Mark LeBlanc
     * Computer Science Professor.
     * Wheaton College
@@ -68,6 +69,7 @@ Content column 1 | Content cell 2
   * Weiqi
     * Computer Science and Mathematics double Major.
     * Wheaton College
+
 * Ordered List
   1. Wheaton College
   2. Norton
