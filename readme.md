@@ -48,11 +48,7 @@ $ git push
   * \_Italic\_ will be _Italic_ or \*Italic\* will also be *Italic*.
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
-* Tables
-**First Header** | **Second Header**
----------------- | -----------------
-Content cell 1   | Content cell 2
-Content column 1 | Content cell 2
+
 
 * Unordered List
 
@@ -81,3 +77,15 @@ Content column 1 | Content cell 2
 - [ ] Javascript update
 - [ ] CSS update
 - [ ] Hello
+=======
+* Images.
+   * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
+   * Format: !\[Alt Text](url)
+ 
+ * Emoji
+  * GitHub supports emoji! 
+  * \:emoji_name_here:
+  * :octocat:  \:octocat:
+  * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
+  
+
