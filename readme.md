@@ -48,6 +48,20 @@ $ git push
   * \_Italic\_ will be _Italic_ or \*Italic\* will also be *Italic*.
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
+* Unordered List
+  * Mark LeBlanc
+    * Computer Science Professor.
+    * Wheaton College
+
+  * Weiqi
+    * Computer Science and Mathematics double Major.
+    * Wheaton College
+* Ordered List
+  1. Wheaton College
+  2. Norton
+  3. MA  
+  4. USA
+  5. North America
 * Images
     ![GitHub Logo](/images/logo.jpg)
     *Format: \[Alt Text](url)
