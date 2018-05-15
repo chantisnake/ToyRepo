@@ -84,6 +84,6 @@ Content column 1 | Content cell 2
 
 Do this before Monday.
   * TODO:
-    -[] Javascript update
-    -[] CSS update
+    -[ ] Javascript update
+    -[ ] CSS update
     -[x] Hello
