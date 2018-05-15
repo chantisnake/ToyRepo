@@ -80,8 +80,8 @@ Content column 1 | Content cell 2
     *![GitHub Logo](/images/logo.jpg|width=100)
     *Format: \[Alt Text](url)
 
+- [ ] @phuens
 ### TODO
-@phuens
 - [ ] Javascript update
 - [ ] CSS update
 - [ ] Hello
