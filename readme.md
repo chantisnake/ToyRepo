@@ -51,4 +51,5 @@ $ git push
 * Images.
 
     *![GitHub Logo](/images/logo.jpg)
+    
     *Format: \[Alt Text](url)
