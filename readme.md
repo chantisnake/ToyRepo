@@ -80,7 +80,7 @@ Content column 1 | Content cell 2
     *![GitHub Logo](/images/logo.jpg|width=100)
     *Format: \[Alt Text](url)
 
-* Do this before Monday.
--[ ] Javascript update
--[ ] CSS update
--[ ] Hello
+### TODO
+- [ ] Javascript update
+- [ ] CSS update
+- [ ] Hello
