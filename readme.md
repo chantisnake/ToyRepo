@@ -50,10 +50,22 @@ $ git push
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 
 
+* Images.
+   * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
+   * Format: !\[Alt Text](url)
+* Links
+  * https://github.com/ - Links are automatically live!
+  * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
+
+
 * Unordered List
 
     \* Item 1 \
+
     \* Item 2
+
+    \* Item 2 \
+
 
   Example:
   * Mark LeBlanc
@@ -83,6 +95,7 @@ $ git push
    * Format: !\[Alt Text](url)
  
  * Emoji
+
   * GitHub supports emoji! 
 * Images
     ![GitHub Logo](/images/logo.jpg)
@@ -111,4 +124,27 @@ supported
   2. CSS update
   3. Hello
 
+
+   * GitHub supports emoji! 
+   * \:emoji_name_here:
+   * :octocat:  \:octocat:
+   * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
+  
+ * Blockquotes
+  * \> creates a blockquote 
+    >This is a blockquote
+    
+* Table
+
+First Header|Second Header
+------------|-------------
+Content cell 1|Content cell 2
+Content column 1|Content column 2
+
+```javascript
+function test(){
+    console.log("Happy birthday, Weiqi!");
+}
+```
+![Happy Birthday Weiqi!](/images/for_Weiqi.png)
 
