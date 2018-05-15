@@ -79,3 +79,10 @@ Content column 1 | Content cell 2
 * Images
     *![GitHub Logo](/images/logo.jpg|width=100)
     *Format: \[Alt Text](url)
+- [x] @phuens, #refs, [links](),
+
+**formatting** do this before Monday.
+  * TODO:
+  1. Javascript update
+  2. CSS update
+  3. Hello
