@@ -51,7 +51,6 @@ $ git push
 
 
 * Unordered List
-
   * Mark
     * Computer Science Professor.
     * Wheaton College
@@ -61,3 +60,8 @@ $ git push
     * Wheaton College
 
 * Ordered List
+  1. Wheaton College
+  2. Norton
+  3. MA
+  4. USA
+  5. North America
