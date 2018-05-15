@@ -51,13 +51,7 @@ $ git push
 
 
 * Unordered List
-  * syntax:
-  *\* Item 1\
-  *\* Item 2\
-    *\ Item 2a\
-    *\ Item 2b\
-
-  * Mark
+  * Mark LeBlanc
     * Computer Science Professor.
     * Wheaton College
 
