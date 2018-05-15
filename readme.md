@@ -56,10 +56,10 @@ Content column 1 | Content cell 2
 
 * Unordered List
 
-  \ * \* Item 1
-  \ * \* Item 2
-    \ * \*Item 2a
-    \ * \*Item 2b
+   * \* Item 1
+   * \* Item 2
+     * \* Item 2a
+     * \* Item 2b
 
   * Mark LeBlanc
     * Computer Science Professor.
