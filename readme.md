@@ -83,20 +83,15 @@ $ git push
 - [ ] Javascript update
 - [ ] CSS update
 - [ ] Hello
-
-
-* Images.
-   * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
-   * Format: !\[Alt Text](url)
  
- * Emoji
-   * GitHub supports emoji! 
-   * \:emoji_name_here:
-   * :octocat:  \:octocat:
-   * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
+* Emoji
+  * GitHub supports emoji! 
+  * \:emoji_name_here:
+  * :octocat:  \:octocat:
+  * [GitHub Emoji List](https://gist.github.com/rxaviers/7360908)  
   
- * Blockquotes
-   * \> creates a blockquote 
+* Blockquotes
+  * \> creates a blockquote 
     >This is a blockquote
     
 * Table
