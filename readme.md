@@ -51,6 +51,11 @@ $ git push
 
 
 * Unordered List
+
+    \* Item 1 \
+    \* Item 2
+
+  Example:
   * Mark LeBlanc
     * Computer Science Professor.
     * Wheaton College
@@ -65,6 +70,20 @@ $ git push
   3. MA
   4. USA
   5. North America
+
+
+- [ ] @phuens
+### TODO
+- [ ] Javascript update
+- [ ] CSS update
+- [ ] Hello
+
+* Images.
+   * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
+   * Format: !\[Alt Text](url)
+ 
+ * Emoji
+  * GitHub supports emoji! 
 * Images
     ![GitHub Logo](/images/logo.jpg)
     *Format: \[Alt Text](url)
@@ -76,6 +95,14 @@ $ git push
 * Blockquotes
   * \> creates a blockquote
     >This is a blockquote
+
+
+
+* \-\[\]\@mentions, \#refs,\[links]\(),
+\*\* formatting, and \<\del\> tags \<\/del\>
+supported
+*\-\[\] list syntax required.
+*\-\[\] list 2
 
 - [x] @phuens, #refs, [links](),
 **formatting** do this before Monday.
