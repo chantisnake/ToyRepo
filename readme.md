@@ -51,8 +51,6 @@ $ git push
 
 
 * Unordered List
-  * \item 1\
-  * \item 2\
 
   * Mark
     * Computer Science Professor.
