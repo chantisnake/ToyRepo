@@ -50,6 +50,6 @@ $ git push
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 * Images.
 
-    *![GitHub Logo](/images/logo.jpg)
+    *![GitHub Logo](/images/logo.jpg|width=100)
     
     *Format: \[Alt Text](url)
