@@ -54,3 +54,7 @@ $ git push
   * :octocat:  \:octocat:
   * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
   
+
+* Links
+  * https://github.com/ - Links are automatically live!
+  * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
