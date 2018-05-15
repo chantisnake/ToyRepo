@@ -52,3 +52,6 @@ $ git push
 * Images.
    * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
    * Format: !\[Alt Text](url)
+* Links
+  * https://github.com/ - Links are automatically live!
+  * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
