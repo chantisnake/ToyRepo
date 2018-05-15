@@ -1,14 +1,13 @@
-# toy Repo
+# Toy Repo
+This is a temporary repo just to teach the Lexos team about basic git.  
 
-This is a temporary repo just to teach the Lexos team about basic git commands:  
-
-## a couple of important files
+## Important files
   * .gitignore
-    * all the filenames in this file will be ignored by git (so these files you are unable to add)
+    * all the files/directories listed this file will be ignored by git. At this moment we are only ignoring .idea folder which contains project specific settings of each developers IDE ([PyCharm](https://www.jetbrains.com/pycharm/)).
   * .git/
-    * the folder with all the git information
+    * the folder with all the git information.
 
-## commands
+## Commands
 
   * add  
     * add the files that you have edited and want to push to the remote repo  
@@ -29,10 +28,10 @@ This is a temporary repo just to teach the Lexos team about basic git commands:
   * diff  
     * show the difference between current and a commit (default is the latest commit)
 
-## a decent tutorial on git
+## A decent tutorial on git
 https://www.atlassian.com/git/tutorials/saving-changes/git-add
 
-## a sample session
+## Sample session
 
 ```
 $ vi readme.md
@@ -41,5 +40,6 @@ $ git commit -m "small edits to readme; just practing"
 $ git pull
 $ git push
 ```
+## GitHub flavored MarkDown
 
 
