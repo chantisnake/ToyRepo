@@ -110,5 +110,4 @@ function test(){
     console.log("Happy birthday, Weiqi!");
 }
 ```
-
-
+![Happy Birthday Weiqi!](/images/for_Weiqi.png)
