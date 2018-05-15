@@ -55,6 +55,12 @@ Content cell 1   | Content cell 2
 Content column 1 | Content cell 2
 
 * Unordered List
+  * syntax:
+  * \* Item 1
+  * \* Item 2
+    * \*Item 2a
+    * \*Item 2b
+
   * Mark LeBlanc
     * Computer Science Professor.
     * Wheaton College
@@ -68,17 +74,7 @@ Content column 1 | Content cell 2
   3. MA  
   4. USA
   5. North America
-* Emoji
-  * GitHub supports emoji! 
-  * \:emoji_name_here:
-  * :octocat:  \:octocat:
-  * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
-* Blockquotes
-  * \> creates a blockquote 
-    >This is a blockquote
-* Images
-    *![GitHub Logo](/images/logo.jpg|width=100)
-    *Format: \[Alt Text](url)
+
 
 - [ ] @phuens
 ### TODO
