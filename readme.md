@@ -42,28 +42,29 @@ $ git pull
 $ git push
 ```
 ## GitHub flavored MarkDown
-* Header
+* **Header**
   * # # creates an \<h1\> tag.
   * ###### ###### creates an \<h6\> tag.
-* Emphasis
+* **Emphasis**
   * \_Italic\_ will be _Italic_ or \*Italic\* will also be *Italic*.
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 
-* Images ![GitHub logo](/images/logo.jpg)
+* **Images** ![GitHub logo](/images/logo.jpg)
   * Format: !\[Alt Text](url)
   * To change image size - \<img src="https://your-image-url.type" width="100" height="100"\>
   * <img src="/images/logo.jpg" width="100" height="100">
-* Links
+  
+* **Links**
   * https://github.com/ - Links are automatically live!
   * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
 
-* Unordered List
+* **Unordered List**
 
   \* Item 1 \
   \* Item 2
 
-  **Example:**
+  Example:
   * Mark LeBlanc
     * Computer Science Professor
     * Wheaton College
@@ -72,61 +73,60 @@ $ git push
     * Computer Science and Mathematics double Major
     * Wheaton College
 
-* Ordered List
+* **Ordered List**
 
   1\. Item 1   
   2\. Item 2  
     
-  **Example:**  
-  1. Wheaton College
-  2. Norton
-  3. MA  
-  4. USA
-  5. North America  
+  Example:  
+    1. Wheaton College
+    2. Norton
+    3. MA  
+    4. USA
+    5. North America  
 
 
-* Task Lists  
+* **Task Lists**  
   \- [ ] item one  
   \- [ ] item two
  
-  **Example:**  
-- [ ] Javascript update
-- [ ] CSS update
-- [ ] Hello
+  Example:
+    - [ ] Javascript update
+    - [ ] CSS update
+    - [ ] Hello
  
- * Emoji
+ * **Emoji**
 
     * GitHub supports emoji! 
     * \:emoji_name_here:
     * :octocat:  \:octocat:
     * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)
-* Blockquotes
+    
+* **Blockquotes**
   * \> creates a blockquote
     >This is an example  blockquote
 
-
-
-* \@mentions creates @phuens
+* **\@mentions** creates @phuens
  
-* Strikethrough: \<del> tags \<\/del> creates <del> strikethrough </del>
+* **Strikethrough:** \<del> tags \<\/del> creates <del> strikethrough </del>
 
 
-* Table
+* **Table**
 
   First Header|Second Header  
   \------------|-------------  
   Content cell 1|Content cell 2  
   Content column 1|Content column 2  
 
-**Example:**
+  Example:
 
-First Header|Second Header
-------------|-------------
-Content cell 1|Content cell 2
-Content column 1|Content column 2
+    First Header|Second Header
+    ------------|-------------
+    Content cell 1|Content cell 2
+    Content column 1|Content column 2
 
 
-* Fenced Code Block  
+* **Fenced Code Block**  
 
   \```javascript
   function test(){  
@@ -134,10 +134,11 @@ Content column 1|Content column 2
   }  
   \```
 
+  Example:
 
-```javascript
-function test(){
-    console.log("Happy birthday, Weiqi!");
-}
-```
+    ```javascript
+    function test(){
+        console.log("Happy birthday, Weiqi!");
+    }
+    ```
 ![Happy Birthday Weiqi!](/images/for_Weiqi.png)
