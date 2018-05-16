@@ -49,8 +49,7 @@ $ git push
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 
-* Images.
-   * ![GitHub logo](/images/logo.jpg)
+* Images ![GitHub logo](/images/logo.jpg)
    * Format: !\[Alt Text](url)
    * To change image size - \<img src="https://your-image-url.type" width="100" height="100"\>
    * <img src="/images/logo.jpg" width="100" height="100">
