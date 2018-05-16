@@ -91,6 +91,36 @@ $ git push
    * Format: !\[Alt Text](url)
  
  * Emoji
+
+  * GitHub supports emoji! 
+* Images
+    ![GitHub Logo](/images/logo.jpg)
+    *Format: \[Alt Text](url)
+* Emoji
+  * GitHub supports emoji!
+  * \:emoji_name_here:
+  * :octocat:  \:octocat:
+  * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)
+* Blockquotes
+  * \> creates a blockquote
+    >This is a blockquote
+
+
+
+\-\[ \] \@mentions, \#refs, \[links]\(),
+\*\* formatting \*\*, and \<del> tags \<\/del>
+supported
+ \- \[  \] list syntax required.
+ \- \[  \] list 2
+
+- [x] @phuens, #refs, [links](),
+**formatting** do this before Monday.
+  * TODO
+  1. Javascript update
+  2. CSS update
+  3. Hello
+
+
    * GitHub supports emoji! 
    * \:emoji_name_here:
    * :octocat:  \:octocat:
@@ -107,10 +137,21 @@ First Header|Second Header
 Content cell 1|Content cell 2
 Content column 1|Content column 2
 
+
+
+\```javascript
+
+      \function test(){
+      \console.log("Enter a message");
+\}
+
+\```
+
+
+* Fenced Code Block
 ```javascript
 function test(){
     console.log("Happy birthday, Weiqi!");
 }
 ```
-
 ![Happy Birthday Weiqi!](/images/for_Weiqi.png)
