@@ -1,5 +1,5 @@
 # Toy Repo
-This is a temporary repo to teach the Lexos team about basic git.  
+This is a temporary repo just to teach the Lexos team about basic git.  
 
 ## Important files
   * .gitignore
@@ -49,23 +49,18 @@ $ git push
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 
-
-* Images.
-   * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
+* Images ![GitHub logo](/images/logo.jpg)
    * Format: !\[Alt Text](url)
+   * To change image size - \<img src="https://your-image-url.type" width="100" height="100"\>
+   * <img src="/images/logo.jpg" width="100" height="100">
 * Links
   * https://github.com/ - Links are automatically live!
   * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
 
-
 * Unordered List
 
     \* Item 1 \
-
-    \* Item 2
-
     \* Item 2 \
-
 
   Example:
   * Mark LeBlanc
@@ -79,7 +74,7 @@ $ git push
 * Ordered List
   1. Wheaton College
   2. Norton
-  3. MA
+  3. MA  
   4. USA
   5. North America
 
@@ -89,17 +84,11 @@ $ git push
 - [ ] Javascript update
 - [ ] CSS update
 - [ ] Hello
-
-* Images.
-   * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
-   * Format: !\[Alt Text](url)
+=======
  
  * Emoji
 
   * GitHub supports emoji! 
-* Images
-    ![GitHub Logo](/images/logo.jpg)
-    *Format: \[Alt Text](url)
 * Emoji
   * GitHub supports emoji!
   * \:emoji_name_here:
@@ -159,4 +148,3 @@ function test(){
 }
 ```
 ![Happy Birthday Weiqi!](/images/for_Weiqi.png)
-
