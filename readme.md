@@ -127,12 +127,13 @@ $ git push
 
 
 * **Fenced Code Block**  
-
-  \```javascript
+  ```
+  ```javascript
   function test(){  
   console.log("Enter a message");  
   }  
-  \```
+  ```
+  ```
 
   Example:
 
