@@ -82,20 +82,24 @@ $ git push
   2. Norton
   3. MA  
   4. USA
-  5. North America
+  5. North America  
 
-*
-### TODO
+
+* Task Lists  
+    \- [ ] item one  
+    \- [ ] item two
+ 
+  Example:  
 - [ ] Javascript update
 - [ ] CSS update
 - [ ] Hello
  
  * Emoji
 
-  * GitHub supports emoji! 
-  * \:emoji_name_here:
-  * :octocat:  \:octocat:
-  * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)
+    * GitHub supports emoji! 
+    * \:emoji_name_here:
+    * :octocat:  \:octocat:
+    * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)
 * Blockquotes
   * \> creates a blockquote
     >This is a blockquote
