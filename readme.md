@@ -78,13 +78,10 @@ $ git push
   4. USA
   5. North America
 
-
-- [ ] @phuens
 ### TODO
 - [ ] Javascript update
 - [ ] CSS update
 - [ ] Hello
-=======
  
  * Emoji
 
