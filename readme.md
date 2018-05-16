@@ -52,7 +52,7 @@ $ git push
 * Images ![GitHub logo](/images/logo.jpg)
    * Format: !\[Alt Text](url)
    * To change image size - \<img src="https://your-image-url.type" width="100" height="100"\>
-   * <img src="/images/logo.jpg" width="100" height="100">
+     <img src="/images/logo.jpg" width="100" height="100">
 * Links
   * https://github.com/ - Links are automatically live!
   * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
