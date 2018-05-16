@@ -51,19 +51,19 @@ $ git push
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 
 * Images ![GitHub logo](/images/logo.jpg)
-   * Format: !\[Alt Text](url)
-   * To change image size - \<img src="https://your-image-url.type" width="100" height="100"\>
-   * <img src="/images/logo.jpg" width="100" height="100">
+  * Format: !\[Alt Text](url)
+  * To change image size - \<img src="https://your-image-url.type" width="100" height="100"\>
+  * <img src="/images/logo.jpg" width="100" height="100">
 * Links
   * https://github.com/ - Links are automatically live!
   * [GitHub](https://github.com/) - \[text_here\]\(link_here\) 
 
 * Unordered List
 
-    \* Item 1 \
-    \* Item 2
+  \* Item 1 \
+  \* Item 2
 
-  Example:
+  **Example:**
   * Mark LeBlanc
     * Computer Science Professor
     * Wheaton College
@@ -74,10 +74,10 @@ $ git push
 
 * Ordered List
 
-    1\. Item 1   
-    2\. Item 2  
+  1\. Item 1   
+  2\. Item 2  
     
-  Example:  
+  **Example:**  
   1. Wheaton College
   2. Norton
   3. MA  
@@ -86,10 +86,10 @@ $ git push
 
 
 * Task Lists  
-    \- [ ] item one  
-    \- [ ] item two
+  \- [ ] item one  
+  \- [ ] item two
  
-  Example:  
+  **Example:**  
 - [ ] Javascript update
 - [ ] CSS update
 - [ ] Hello
@@ -106,23 +106,19 @@ $ git push
 
 
 
-\-\[ \] \@mentions, \#refs, \[links]\(),
-\*\* formatting \*\*, and \<del> tags \<\/del>
-supported
- \- \[  \] list syntax required.
- \- \[  \] list 2
+* \@mentions creates @phuens
+ 
+* Strikethrough: \<del> tags \<\/del> creates <del> strikethrough </del>
 
-- [x] @phuens, #refs, [links](),
-**formatting** do this before Monday.
-  
+
 * Table
 
-First Header|Second Header  
-\------------|-------------  
-Content cell 1|Content cell 2  
-Content column 1|Content column 2  
+  First Header|Second Header  
+  \------------|-------------  
+  Content cell 1|Content cell 2  
+  Content column 1|Content column 2  
 
-Example:
+**Example:**
 
 First Header|Second Header
 ------------|-------------
@@ -130,17 +126,15 @@ Content cell 1|Content cell 2
 Content column 1|Content column 2
 
 
+* Fenced Code Block  
 
-\```javascript
-
-      \function test(){
-      \console.log("Enter a message");
-\}
-
-\```
+  \```javascript
+  function test(){  
+  console.log("Enter a message");  
+  }  
+  \```
 
 
-* Fenced Code Block
 ```javascript
 function test(){
     console.log("Happy birthday, Weiqi!");
