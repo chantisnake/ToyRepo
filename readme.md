@@ -1,5 +1,5 @@
 # Toy Repo
-This is a temporary repo just to teach the Lexos team about basic git.  
+This is a temporary repo to teach the Lexos team about basic git.  
 
 ## Important files
   * .gitignore
