@@ -102,7 +102,7 @@ $ git push
     * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)
 * Blockquotes
   * \> creates a blockquote
-    >This is a blockquote
+    >This is an example  blockquote
 
 
 
@@ -115,11 +115,14 @@ supported
 - [x] @phuens, #refs, [links](),
 **formatting** do this before Monday.
   
- * Blockquotes
-  * \> creates a blockquote 
-    >This is a blockquote
-    
 * Table
+
+First Header|Second Header  
+\------------|-------------  
+Content cell 1|Content cell 2  
+Content column 1|Content column 2  
+
+Example:
 
 First Header|Second Header
 ------------|-------------
