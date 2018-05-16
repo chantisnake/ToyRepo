@@ -89,8 +89,6 @@ $ git push
  * Emoji
 
   * GitHub supports emoji! 
-* Emoji
-  * GitHub supports emoji!
   * \:emoji_name_here:
   * :octocat:  \:octocat:
   * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)
