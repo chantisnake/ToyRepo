@@ -50,7 +50,7 @@ $ git push
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
 
 * Images.
-   * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
+   * ![GitHub logo](/images/logo.jpg)
    * Format: !\[Alt Text](url)
    * To change image size - \<img src="https://your-image-url.type" width="100" height="100"\>
    * <img src="/images/logo.jpg" width="100" height="100">
@@ -86,16 +86,10 @@ $ git push
 - [ ] CSS update
 - [ ] Hello
 =======
-* Images.
-   * ![GitHub logo](https://bit.ly/2Ghxraw|width=100)
-   * Format: !\[Alt Text](url)
  
  * Emoji
 
   * GitHub supports emoji! 
-* Images
-    ![GitHub Logo](/images/logo.jpg)
-    *Format: \[Alt Text](url)
 * Emoji
   * GitHub supports emoji!
   * \:emoji_name_here:
