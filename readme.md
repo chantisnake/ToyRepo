@@ -106,12 +106,6 @@ supported
 
 - [x] @phuens, #refs, [links](),
 **formatting** do this before Monday.
-
-
-   * GitHub supports emoji! 
-   * \:emoji_name_here:
-   * :octocat:  \:octocat:
-   * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
   
  * Blockquotes
   * \> creates a blockquote 
