@@ -1,9 +1,10 @@
 # Toy Repo
-This is a temporary repo just to teach the Lexos team about basic git.  
+This is a temporary repo to teach the Lexos team about basic git.  
 
 ## Important files
   * .gitignore
-    * all the files/directories listed this file will be ignored by git. At this moment we are only ignoring .idea folder which contains project specific settings of each developers IDE ([PyCharm](https://www.jetbrains.com/pycharm/)).
+    * all the files/directories that are listed in this file will be ignored by git. At this moment we are only ignoring
+     the .idea folder which contains project specific settings of each developers IDE ([PyCharm](https://www.jetbrains.com/pycharm/)).
   * .git/
     * the folder with all the git information.
 
@@ -41,10 +42,10 @@ $ git pull
 $ git push
 ```
 ## GitHub flavored MarkDown
-* Header.
-  * \# creates an \<h1\> tag.
-  * \###### creates an \<h6\> tag.
-* Emphasis.
+* Header
+  * # # creates an \<h1\> tag.
+  * ###### ###### creates an \<h6\> tag.
+* Emphasis
   * \_Italic\_ will be _Italic_ or \*Italic\* will also be *Italic*.
   * \_\_bold\_\_ will be __bold__ or \*\*bold\*\* will also be **bold**.
   * \_\*\*Combined\*\*\_ will be _**Combined**_.
@@ -64,20 +65,26 @@ $ git push
 
   Example:
   * Mark LeBlanc
-    * Computer Science Professor.
+    * Computer Science Professor
     * Wheaton College
 
   * Weiqi
-    * Computer Science and Mathematics double Major.
+    * Computer Science and Mathematics double Major
     * Wheaton College
 
 * Ordered List
+
+    1\. Item 1   
+    2\. Item 2  
+    
+  Example:  
   1. Wheaton College
   2. Norton
   3. MA  
   4. USA
   5. North America
 
+*
 ### TODO
 - [ ] Javascript update
 - [ ] CSS update
