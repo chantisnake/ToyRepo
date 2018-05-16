@@ -60,7 +60,7 @@ $ git push
 * Unordered List
 
     \* Item 1 \
-    \* Item 2 \
+    \* Item 2
 
   Example:
   * Mark LeBlanc
@@ -78,19 +78,14 @@ $ git push
   4. USA
   5. North America
 
-
-- [ ] @phuens
 ### TODO
 - [ ] Javascript update
 - [ ] CSS update
 - [ ] Hello
-=======
  
  * Emoji
 
   * GitHub supports emoji! 
-* Emoji
-  * GitHub supports emoji!
   * \:emoji_name_here:
   * :octocat:  \:octocat:
   * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)
@@ -108,16 +103,6 @@ supported
 
 - [x] @phuens, #refs, [links](),
 **formatting** do this before Monday.
-  * TODO
-  1. Javascript update
-  2. CSS update
-  3. Hello
-
-
-   * GitHub supports emoji! 
-   * \:emoji_name_here:
-   * :octocat:  \:octocat:
-   * [GitHub Emoji List](git@github.com:WheatonCS/ToyRepo.git)  
   
  * Blockquotes
   * \> creates a blockquote 
