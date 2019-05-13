@@ -1,16 +1,20 @@
-#Celeste Nobrega
+# Celeste Nobrega
+
 * **Major**: *Bioinformatics*
 * Class of '22
 * item 3 of unordered list
 
-####Ordered list:
+#### Ordered list:
+
 1. Item 1 of ordered list
 2. Item 2
 3. *foo* 
 4. **bar**
 
-####Code Block:
+#### Code Block:
+
 *Here's some Python from COM115*
+
 ```python
 studentList=[]
 def PopulateStudentList():
@@ -24,10 +28,11 @@ def main():
 
 ```
 
-####Table:
+#### Table:
+
 FirstHeader|SecondHeader
 -----------|------------
-row1col1   |row1col2
-row2col1   |row2col2
+row1col1|row1col2
+row2col1|row2col2
 
 **This is the end of my markdown file**
