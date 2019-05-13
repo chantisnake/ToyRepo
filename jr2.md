@@ -9,11 +9,19 @@
 
 #### prioritized (by coolness) list of cool documents
 1. this one
-    1. the prioritized list part is the coolest
+    1. the table part is the coolest
     2. everything else is ok
-2. consitution
+2. _consitution_
 3. readme.md
 
 first column|second column
---------|------
-something|something else
+------------|------------
+something   |something else
+end of table|here
+
+```
+if (document in cool_documents):
+    print(document)
+else:
+    print("uncool document detected")
+```
