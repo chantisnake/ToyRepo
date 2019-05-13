@@ -27,14 +27,15 @@
 '''
 </del>
 
-```javascript 
+``javascript 
 function test(){
 console.log("Enter a message");
 }
-```
-```python
+``
+
+``python
 def main():
     print("Hello World")
     return 0
 main()
-```
+``
