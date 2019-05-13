@@ -32,3 +32,9 @@ function test(){
 console.log("Enter a message");
 }
 ```
+```python
+def main():
+    print("Hello World")
+    return 0
+main()
+```
