@@ -22,6 +22,6 @@ Maggie|Shafer
 **Code Block**
 ```javascript
 function test(){
-    console.log("Maggie Shafer")
+    console.log("Maggie Shafer");
 }
 ```
