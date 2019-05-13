@@ -11,3 +11,11 @@ __Shafer__
 
 1\. Maggie \
 2\. Shafer
+
+**Table**
+
+First Name | Last Name
+----------|----------
+Maggie|Shafer
+
+
