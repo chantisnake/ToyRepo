@@ -9,4 +9,18 @@
 3. *foo* 
 4. **bar**
 
+####Code Block:
+*Here's some Python from COM115*
+```python
+studentList=[]
+def PopulateStudentList():
+    studentList.append("Sally")
+    studentList.append("Joe")
+    studentList.append("Steve")
+def main():
+    PopulateStudentList()
+    student1=studentList[0]
+    print("Student 1 is: ", student1)
+
+```
 
