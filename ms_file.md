@@ -4,13 +4,13 @@ __Shafer__
 
 **Unordered List**
 
-\*Maggie \
-\*Shafer
+* Maggie
+* Shafer
 
 **Ordered List**
 
-1\. Maggie \
-2\. Shafer
+1. Maggie 
+2. Shafer
 
 **Table**
 
