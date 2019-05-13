@@ -20,22 +20,4 @@
  Table Done
  
  >block quote
- 
-<del>'''python def main()
-    print("Hello World")
-    return 0
-'''
-</del>
 
-``javascript 
-function test(){
-console.log("Enter a message");
-}
-``
-
-``python
-def main():
-    print("Hello World")
-    return 0
-main()
-``
