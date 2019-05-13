@@ -1,18 +1,18 @@
-#Caleb's Markdown
+# Caleb's Markdown
 
-###Sub Header
+### Sub Header
 * Add a bullet list
     * add bullets ahead of that
 * *italic text*
     * **bold text**
     
- ####Ordered list of *Websites*
+ #### Ordered list of *Websites*
  1. [Google](https://www.google.com/)
  2. https://docs.python.org/3/tutorial/
  3. Last but not least, [GitHub](https://github.com/)
  
- #####Here's a Table:
- X Coor.|Y Coor.
+ ##### Here's a Table:
+ X Coor.| Y Coor.
  ---|----
  2|3
  6|15
