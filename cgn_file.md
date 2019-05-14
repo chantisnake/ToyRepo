@@ -41,6 +41,10 @@ row2col1|row2col2
 - [YouTube](https://youtube.com)
 - [Lexos](http://lexos.wheatoncollege.edu/)
 
+#### Tasks
 
+-[ ] Learn about pytest 
+-[ ] Critique Lexos user interface
+-[ ] Clone Lexos repo
 
 **This is the end of my markdown file**
