@@ -47,4 +47,18 @@ row2col1|row2col2
 -[ ] Critique Lexos user interface
 -[ ] Clone Lexos repo
 
+#### Blockquote
+
+> Here is a block quote
+
+###### From Interstellar
+
+> The navigation mainframe’s destroyed and we don’t have enough life support to make it back to Earth. But we might scrape to Edmunds’ planet.
+
+
+#### Text styles
+
+- <del> strikethrough </del>
+- @mentions 
+
 **This is the end of my markdown file**
